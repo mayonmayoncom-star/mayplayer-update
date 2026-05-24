@@ -1,6 +1,6 @@
 {
-    "version": "V23_INSTANT_BLACK_SCREEN",
-    "build": 23,
-    "download_url": "https://github.com/mayonmayoncom-star/mayplayer-update/releases/download/v23/mayplayer_update.zip",
+    "version": "V24_BLACK_SCREEN_ONLY",
+    "build": 24,
+    "download_url": "https://github.com/mayonmayoncom-star/mayplayer-update/releases/download/v24/mayplayer_update.zip",
     "notes": "mayplayer update"
 }
