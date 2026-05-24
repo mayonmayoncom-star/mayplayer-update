@@ -1,6 +1,6 @@
 {
-    "version": "V19_UPDATE_SSL_FALLBACK",
-    "build": 19,
-    "download_url": "https://github.com/mayonmayoncom-star/mayplayer-update/releases/download/v19/mayplayer_update.zip",
+    "version": "V20_UPDATE_SSL_URLERROR_FIX",
+    "build": 20,
+    "download_url": "https://github.com/mayonmayoncom-star/mayplayer-update/releases/download/v20/mayplayer_update.zip",
     "notes": "mayplayer update"
 }
