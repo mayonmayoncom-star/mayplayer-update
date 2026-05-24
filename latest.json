@@ -1,6 +1,6 @@
 {
-    "version": "V18_CLOSE_AND_LAYOUT_FIX",
-    "build": 18,
-    "download_url": "https://github.com/mayonmayoncom-star/mayplayer-update/releases/download/v18/mayplayer_update.zip",
+    "version": "V19_UPDATE_SSL_FALLBACK",
+    "build": 19,
+    "download_url": "https://github.com/mayonmayoncom-star/mayplayer-update/releases/download/v19/mayplayer_update.zip",
     "notes": "mayplayer update"
 }
