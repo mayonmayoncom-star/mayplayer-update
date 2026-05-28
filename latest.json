@@ -1,6 +1,6 @@
 {
-    "version": "V119_UPDATE_RESTART_HEADER_FIX",
-    "build": 119,
-    "download_url": "https://github.com/mayonmayoncom-star/mayplayer-update/releases/download/v119/melonplayer_update.zip",
+    "version": "V120_UPDATE_APPLY_HARDENED",
+    "build": 120,
+    "download_url": "https://github.com/mayonmayoncom-star/mayplayer-update/releases/download/v120/melonplayer_update.zip",
     "notes": "melonplayer update"
 }
