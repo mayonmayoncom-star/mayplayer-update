@@ -1,6 +1,6 @@
 {
-    "version": "V120_UPDATE_APPLY_HARDENED",
-    "build": 120,
-    "download_url": "https://github.com/mayonmayoncom-star/mayplayer-update/releases/download/v120/melonplayer_update.zip",
+    "version": "V122_MYOMYO_RETRY_ONLY_ON_FALL",
+    "build": 122,
+    "download_url": "https://github.com/mayonmayoncom-star/mayplayer-update/releases/download/v122/melonplayer_update.zip",
     "notes": "melonplayer update"
 }
