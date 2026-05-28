@@ -1,6 +1,6 @@
 {
-    "version": "V118_POTION_QUANTITY_SETTINGS",
-    "build": 118,
-    "download_url": "https://github.com/mayonmayoncom-star/mayplayer-update/releases/download/v118/melonplayer_update.zip",
+    "version": "V119_UPDATE_RESTART_HEADER_FIX",
+    "build": 119,
+    "download_url": "https://github.com/mayonmayoncom-star/mayplayer-update/releases/download/v119/melonplayer_update.zip",
     "notes": "melonplayer update"
 }
